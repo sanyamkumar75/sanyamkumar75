@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanyamkumarr
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning htm/css/javasript
+- 👀 I’m interested in Android app development
+- 🌱 I’m currently learning java development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
